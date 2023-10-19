@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ClaireGameScene.unity
+    guid: b8b3ca18fdd36e046ae50efa0aafb188
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: f5159589fe088f64a9944f0544d3d3d2
+  m_configObjects: {}
